@@ -1,0 +1,1 @@
+TRUNCATE TABLE public.otp_codes; TRUNCATE TABLE public.email_send_log;

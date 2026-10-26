@@ -1,0 +1,1 @@
+DELETE FROM public.tasas_mercado_cache WHERE instrumento = 'lecap';
